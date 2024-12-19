@@ -2,6 +2,8 @@
 Created a home lab using Cisco Packet tracer.
 ACL Configuration
 
+![image alt](https://github.com/Salayne/ACL-virtual-lab-cisco/blob/8ab2b0297b506bcb15c84122d84137629083fcf9/Screenshot%202024-12-18%20223455.png)
+
 1. Create topology
 -2911 router
 -NETWORK SEGMENT 1
