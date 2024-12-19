@@ -19,7 +19,11 @@ ACL Configuration
 2.Configure IP addresses of router and host devices ping devices to test connectivity.
 ![image alt](https://github.com/Salayne/ACL-virtual-lab-cisco/blob/ad2c85dddffe0b7749cab5b79c746ad842798544/Screenshot%202024-12-18%20223554.png)
 
+![image alt](https://github.com/Salayne/ACL-virtual-lab-cisco/blob/cfe3a36b43607992be6da689ebe1b89b67b26cd8/Screenshot%202024-12-18%20223749.png)
+
 3. Create a rule to only allow IP addresses 192.168.1.2 and 192.168.1.4
-4. Bind ACL on router interface
+
+![image alt]()
+5. Bind ACL on router interface
 
 
