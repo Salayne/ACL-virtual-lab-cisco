@@ -23,7 +23,7 @@ ACL Configuration
 
 3. Create a rule to only allow IP addresses 192.168.1.2 and 192.168.1.4
 
-![image alt]()
+![image alt](https://github.com/Salayne/ACL-virtual-lab-cisco/blob/d7523797c0a5b87a5b59968a5871f7f14d34efc5/Screenshot%202024-12-18%20224548.png)
 5. Bind ACL on router interface
 
 
